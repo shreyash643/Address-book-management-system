@@ -49,4 +49,4 @@ All contact information, including **name, phone number, and email**, is stored 
 ## ▶️ How to Run
 1. Compile the program:
    ```bash
-   gcc *.c -o address_book
+   gcc *.c 
